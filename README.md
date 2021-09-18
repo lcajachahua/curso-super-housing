@@ -15,4 +15,4 @@ Enlace al Notebook original: https://www.kaggle.com/rajmehra03/housing-prices-ed
 
 
 
-Elaborado por Raj Mehra, modificado por Luis Cajachahua, bajo licencia MIT (2021)
+Elaborado por Raj Mehrotra, modificado por Luis Cajachahua, bajo licencia MIT (2021)
