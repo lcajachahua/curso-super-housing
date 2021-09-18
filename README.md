@@ -11,6 +11,7 @@ git clone https://github.com/lcajachahua/curso-super-housing.git
 
 Y listo! Ya puede acceder a los Notebooks y a los datos de ejemplo.
 
+Enlace al Notebook original: https://www.kaggle.com/rajmehra03/housing-prices-eda-regression-analysis
 
 
 
